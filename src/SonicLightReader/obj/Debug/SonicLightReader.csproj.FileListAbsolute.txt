@@ -1,0 +1,13 @@
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightReader.exe.config
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightReader.exe
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightReader.pdb
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.csprojResolveAssemblyReference.cache
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.exe
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightReader.exe.config
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightReader.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightReader.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightReader\obj\Debug\SonicLightReader.pdb

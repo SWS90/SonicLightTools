@@ -1,0 +1,13 @@
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightXml.exe.config
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightXml.exe
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightXml.pdb
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.csprojResolveAssemblyReference.cache
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.exe
+E:\Users\Graha_000\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightXml.exe.config
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightXml.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightXml.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightXml\obj\Debug\SonicLightXml.pdb
