@@ -8,8 +8,13 @@ Small collection of tools to read, write, and edit .light files for Sonic Unleas
 <br />Omni: X,Y,Z Position, RGB Color, Inner and Outer Range. 
 <br />
 <br />SonicLightReader:
-<br />Drag and drop any .light file to print out it's infomation.
+<br />Drag and drop any .light file to print out it's infomation, or a folder with .light files.
 <br />
 <br />SonicLightXml:
 <br />Drag and drop any .light file to convert to .light.xml, or any .light.xml to convert back to .light.
-
+<br />
+<br />SonicLightToForces:
+<br />Takes any .light file and multiplies the RGB color by 10,000, you can also drag and drop any folder with .light files.
+<br />
+<br />SonicLightNormalizer: 
+<br />Takes any .light file and divides the RGB color by 10,000, you can also drag and drop any folder with .light files.

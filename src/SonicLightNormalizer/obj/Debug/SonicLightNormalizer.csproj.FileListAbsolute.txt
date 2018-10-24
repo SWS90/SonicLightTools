@@ -1,0 +1,7 @@
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightNormalizer.exe.config
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightNormalizer.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightNormalizer.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightNormalizer\obj\Debug\SonicLightNormalizer.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightNormalizer\obj\Debug\SonicLightNormalizer.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightNormalizer\obj\Debug\SonicLightNormalizer.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightNormalizer\obj\Debug\SonicLightNormalizer.pdb

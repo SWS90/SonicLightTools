@@ -5,8 +5,13 @@ using System.Xml.Linq;
 
 namespace SonicLightXml
 {
+    public enum LightType
+    {
+        Directional, Omni
+    }
     public class Program
     {
+        public static LightType lightType;
         public static void Main(string[] args)
         {
             // If the user dropped a .light or light.xml file onto the program, read it.
@@ -34,15 +39,15 @@ namespace SonicLightXml
             // Otherwise, show help
             else
             {
+                Console.WriteLine("SonicLightXml.\n");
                 Console.WriteLine("Sonic Unleashed/Gens/LW/Forces LightXmlTool.");
-                Console.WriteLine("Made by SWS90 with help from Radfordhound.");
+                Console.WriteLine("Made by SWS90 with help from Radfordhound.\n");
                 Console.WriteLine("Reads the following for .light files:");
                 Console.WriteLine("Directional: X,Y,Z Position, and RGB Color.");
                 Console.WriteLine("Omni: X,Y,Z Position, RGB Color, Inner and Outer Range.");
 
                 Console.WriteLine();
-                Console.WriteLine("Usage: Drag and drop any .light file to convert to .light.xml,");
-                Console.WriteLine("or drag and drop any .light.xml file to convert back to .light.");
+                Console.WriteLine("Usage: Drag and drop any .light file to convert to .light.xml,\nor drag and drop any .light.xml file to convert back to .light.");
             }
 
             Console.WriteLine();
@@ -62,7 +67,7 @@ namespace SonicLightXml
                 uint rootNodeOffset = reader.ReadUInt32();
                 uint finalTableOffsetAbs = reader.ReadUInt32();
                 uint padding = reader.ReadUInt32();
-                uint value_LightType = reader.ReadUInt32();
+                lightType = (LightType)reader.ReadUInt32();
                 float XPos = reader.ReadSingle();
                 float YPos = reader.ReadSingle();
                 float ZPos = reader.ReadSingle();
@@ -72,7 +77,7 @@ namespace SonicLightXml
 
                 // Generate XML
                 var rootElement = new XElement("SonicLightXml");
-                rootElement.Add(new XElement("LightType", value_LightType));
+                rootElement.Add(new XElement("LightType", lightType));
 
                 var lightPosition = new XElement("Position");
                 lightPosition.Add(new XElement("X", XPos));
@@ -87,7 +92,7 @@ namespace SonicLightXml
                 rootElement.Add(lightColor);
 
                 // Omni-Specific Values
-                if (value_LightType == 1)
+                if (lightType == LightType.Omni)
                 {
                     uint Unknown1 = reader.ReadUInt32();
                     uint Unknown2 = reader.ReadUInt32();
@@ -132,7 +137,7 @@ namespace SonicLightXml
                 writer.Write(24);
                 writer.Write(0);
                 writer.Write(0);
-
+                
                 // Light Type
                 bool isOmniLight = (lightTypeElem != null && lightTypeElem.Value == "1");
                 writer.Write((isOmniLight) ? 1 : 0);

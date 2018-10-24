@@ -1,0 +1,7 @@
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightToForces.exe.config
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightToForces.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\bin\SonicLightToForces.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightToForces\obj\Debug\SonicLightToForces.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightToForces\obj\Debug\SonicLightToForces.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightToForces\obj\Debug\SonicLightToForces.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\SonicLightTools\src\SonicLightToForces\obj\Debug\SonicLightToForces.pdb
